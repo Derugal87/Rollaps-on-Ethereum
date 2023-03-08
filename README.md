@@ -1,1 +1,1 @@
-# Rollaps-on-Ethereum
+# Rollups-on-Ethereum
